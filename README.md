@@ -3,8 +3,8 @@
 
 设计模式和数据结构与算法是通用技能, 可以跨语言使用, 贯穿编程本身, 需要一直关注
 
-1. SimpleFactoryPattern: 简单工厂模式
-2. FactoryPattern: 工厂模式
-3. AbstractFactoryPattern: 抽象工厂模式
+1. simple_factory_pattern: 简单工厂模式
+2. factory_pattern: 工厂模式
+3. abstract_factory_pattern: 抽象工厂模式
 
 
